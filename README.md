@@ -1,5 +1,5 @@
 
-# New Movie App
+#  Movie App
 
 A modern React movie app built with Vite, Tailwind CSS, and TypeScript.
 
